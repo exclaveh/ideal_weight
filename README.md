@@ -1,0 +1,1 @@
+The program asks for the name and height and displays the ideal weight according to the formula <height> - 110, after which it displays the result to the user on the screen with a call by name. If the ideal weight turns out to be negative, then the line "Your weight is already optimal" is displayed 
